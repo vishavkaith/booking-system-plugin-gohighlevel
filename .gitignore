@@ -1,6 +1,41 @@
+# Node
 node_modules/
-vendor/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
 .env
-wp-config.php
-*.zip
+
+# Logs
 *.log
+logs/
+includes/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# WordPress sensitive files
+wp-config.php
+
+# Composer / PHP
+vendor/
+
+# Build / temp
+dist/
+build/
+tmp/
+cache/
+
+# Backup files
+*.zip
+*.tar.gz
+
+# Misc
+*.bak
+*.swp
