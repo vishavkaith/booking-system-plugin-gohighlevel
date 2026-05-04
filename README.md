@@ -186,16 +186,22 @@ If you find this project useful:
 ----------
 
 ### 📅 Frontend services
-![Booking](screenshots/frontendservice.png)
+![Booking](screenshots/frontend-service.png)
 
 
 
 
 
 
-This project was initially inspired by an open-source project.
-Significant modifications and custom development have been implemented.
-If you are the original author and want attribution, please contact me.
+## License
+
+This project is proprietary and is not open for public use, distribution, or modification without explicit permission from the author.**
+
+**© Vishav Bandhu. All rights reserved.
+For commercial usage or licensing inquiries, 
+please contact: mr.kaith@gmail.com Website:https://www.itsbegin.in/
+**---------------
+
 ## License
 
 This project is proprietary and is not open for public use, distribution, or modification without explicit permission from the author.
@@ -203,4 +209,3 @@ This project is proprietary and is not open for public use, distribution, or mod
 © Vishav Bandhu. All rights reserved.
 For commercial usage or licensing inquiries, 
 please contact: mr.kaith@gmail.com Website:https://www.itsbegin.in/
----------------
